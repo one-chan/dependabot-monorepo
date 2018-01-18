@@ -20,8 +20,10 @@
     "lerna": "^2.7.1"
   },
   "devDependencies": {
+    "@types/node": "^8.0.31",
     "lint-staged": "^5.0.0"
   },
+ "private": true,
   "workspaces": [
     "packages/*"
   ]
