@@ -1,0 +1,22 @@
+{
+  "name": "dependabot-monorepo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hi'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one-chan/dependabot-monorepo.git"
+  },
+  "author": "one-chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/one-chan/dependabot-monorepo/issues"
+  },
+  "homepage": "https://github.com/one-chan/dependabot-monorepo#readme",
+  "dependencies": {
+    "lerna": "^2.7.1"
+  }
+}
