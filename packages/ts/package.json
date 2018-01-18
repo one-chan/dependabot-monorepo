@@ -9,6 +9,7 @@
   "author": "one-chan",
   "license": "MIT",
   "devDependencies": {
+    "mocha": "^3.5.3",
     "typescript": "^2.5.2"
   }
 }
