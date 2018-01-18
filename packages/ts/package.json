@@ -1,0 +1,14 @@
+{
+  "name": "pacakge-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'package-ts'"
+  },
+  "author": "one-chan",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
+}
