@@ -12,6 +12,6 @@
     "@types/mocha": "^2.2.48",
     "mocha": "^3.5.3",
     "jest": "^22.0.6",
-    "typescript": "^2.5.2"
+    "typescript": "^2.7.1"
   }
 }
