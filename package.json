@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/one-chan/dependabot-monorepo#readme",
   "dependencies": {
-    "lerna": "^2.7.1"
+    "lerna": "2.7.1"
   },
   "devDependencies": {
-    "@types/node": "^8.0.31",
-    "lint-staged": "^5.0.0",
-    "mocha": "^3.5.3"
+    "@types/node": "8.5.9",
+    "lint-staged": "5.0.0",
+    "mocha": "3.5.3"
   },
  "private": true,
   "workspaces": [
