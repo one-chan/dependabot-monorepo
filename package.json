@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/one-chan/dependabot-monorepo#readme",
   "dependencies": {
-    "lerna": "^2.10.1"
+    "lerna": "^3.0.6"
   },
   "devDependencies": {
     "@types/node": "^9.6.5",
