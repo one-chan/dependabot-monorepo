@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@types/node": "^9.6.5",
-    "lint-staged": "^5.0.0",
+    "lint-staged": "^9.2.3",
     "mocha": "^5.1.0"
   },
  "private": true,
