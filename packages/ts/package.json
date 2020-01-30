@@ -9,7 +9,7 @@
   "author": "one-chan",
   "license": "MIT",
   "devDependencies": {
-    "@types/mocha": "^5.0.0",
+    "@types/mocha": "^7.0.1",
     "mocha": "^5.1.0",
     "jest": "^22.4.3",
     "typescript": "^2.7.1"
